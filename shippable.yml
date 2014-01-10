@@ -3,4 +3,4 @@ jdk:
   - oraclejdk7
 script: 
    - ant coverage
-build_environment: win2012 
+build_environment: ubuntu1204 
