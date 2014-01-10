@@ -1,6 +1,6 @@
 language: java
-build_environment : Ubuntu 12.04LTE
 jdk:
   - oraclejdk7
 script: 
    - ant coverage
+build_environment: win2012 
